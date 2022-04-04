@@ -1,7 +1,23 @@
+<br />
+<div align="center">
+  <h3 align="center">Large-Scale Data Mining of Rapid Residue Detection Assay Data From HTML and PDF Documents:</h3>
+
+  <p align="center">
+    AImproving Data Access and Visualization for Veterinarians
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Extracting tables from PDF and HTML documents</strong></a>
+    <br />
+    <br />
+  </p>
+</div>
+
+
+<!-- 
 <h1 align="center">Large-Scale Data Mining of Rapid Residue Detection Assay Data From HTML and PDF Documents: 
 <br align="center">Improving Data Access and Visualization for Veterinarians</br></h1>
 <p align="center"><strong> Extracting tables from PDF and HTML documents</strong></p>
-<div align="center"><img src="images/Graphical Abstract.jpg"></img></div>
+<div align="center"><img src="images/Graphical Abstract.jpg"></img></div> 
+-->
 
 <h2>About</h2>
 Front. Vet. Sci., 21 July 2021 | https://doi.org/10.3389/fvets.2021.674730<a href="https://doi.org/10.3389/fvets.2021.674730"></a>
