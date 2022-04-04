@@ -1,4 +1,5 @@
-<h1 align="center">Large-Scale Data Mining of Rapid Residue Detection Assay Data From HTML and PDF Documents: Improving Data Access and Visualization for Veterinarians</h1>
+<h1 align="center">Large-Scale Data Mining of Rapid Residue Detection Assay Data From HTML and PDF Documents: </h1>
+<h2 align="center">Improving Data Access and Visualization for Veterinarians</h2>
 <p align="center"><strong> Extracting tables from PDF and HTML documents</strong></p>
 <div align="center"><img src="images/Graphical Abstract.jpg"></img></div>
 
