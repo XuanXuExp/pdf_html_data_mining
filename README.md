@@ -1,7 +1,6 @@
 <br />
 <div align="center">
   <h3 align="center">Large-Scale Data Mining of Rapid Residue Detection Assay Data From HTML and PDF Documents:</h3>
-
   <p align="center">
     Improving Data Access and Visualization for Veterinarians
     <br />
@@ -19,7 +18,7 @@
 <div align="center"><img src="images/Graphical Abstract.jpg"></img></div> 
 -->
 
-<h2>About</h2>
+<h3>About</h3>
 Front. Vet. Sci., 21 July 2021 | https://doi.org/10.3389/fvets.2021.674730<a href="https://doi.org/10.3389/fvets.2021.674730"></a>
 
 <h3>Summary</h3>
