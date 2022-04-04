@@ -4,7 +4,7 @@
   <p align="center">
     Improving Data Access and Visualization for Veterinarians
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Extracting tables from PDF and HTML documents</strong></a>
+    <a href="https://github.com/XuanXuExp/pdf_html_data_mining.git"><strong>Extracting tables from PDF and HTML documents</strong></a>
     <br />
     <br />
   </p>
